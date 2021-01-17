@@ -6,8 +6,8 @@ An clean looking end user theme for small businesses.
 
 ## index
 
-(technology)[#technology]
-(prerequisites)[#prerequisites]
+[technology](#technology)
+[prerequisites](#prerequisites)
 
 ## technology 
 
