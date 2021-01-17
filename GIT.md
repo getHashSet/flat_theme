@@ -13,13 +13,13 @@ The format to the issue should be in all lowercase letters and use snake case wh
 
 Branches will be automatically closed once a **Pull Request (PR)** is merged into the **dev** branch. 
 
-**Format**
+### Format
 
 ```
 issue/<dev name>/<issue number>_description
 ```
 
-**Example**
+### Example
 
 ```
 issue/matthew/0_create_readme
