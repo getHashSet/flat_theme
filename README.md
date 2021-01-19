@@ -2,10 +2,10 @@
 _by Benjamin && by Matthew_
 
 ## summary 
-An clean looking end user theme for small businesses.
+An simple flat colored theme for small businesses.
 
 ## technical summary 
-This application is built using javascript and themed with styled-components. It uses Cookies, React, Redux, and S3 buckets for handling file uploads. 
+This application is built using javascript and themed with styled-components. It uses Cookies, React, Redux, and AWS. 
 
 ## index
 
@@ -41,4 +41,4 @@ github
 
 ---
 
-(back to top)[#]
+[back to top](#)
